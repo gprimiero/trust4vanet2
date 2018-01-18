@@ -1,0 +1,11 @@
+set xlabel "Network Size"
+set xrange [10:100]
+set ytics nomirror
+set ylabel "% Infection"
+set yrange [10:100]
+set key above left
+#set terminal pngcairo dashed
+#set output "allcons.png"
+set terminal postscript eps enhanced color font 'Helvetica,20'
+set output "1stconfig.eps"
+plot "1stconfig_sw.dat" title "SW" with linespoints lt 1, "1stconfig_total.dat" title "Total" with linespoints lt 4, "1stconfig_random.dat" title "Random" with linespoints lt 7

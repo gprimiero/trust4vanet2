@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: vanetattack.bib.bib
+Warning--to sort, need editor, organization, or key in DBLP:conf/eurosp/2017w
+Warning--can't use both author and editor fields in Wei2012
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            655 strings with 9551 characters,
+and the built_in function-call counts, 8806 in all, are:
+= -- 894
+> -- 389
+< -- 13
++ -- 155
+- -- 127
+* -- 636
+:= -- 1362
+add.period$ -- 68
+call.type$ -- 21
+change.case$ -- 118
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 345
+empty$ -- 678
+format.name$ -- 127
+if$ -- 1917
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 107
+num.names$ -- 46
+pop$ -- 116
+preamble$ -- 1
+purify$ -- 99
+quote$ -- 0
+skip$ -- 279
+stack$ -- 0
+substring$ -- 671
+swap$ -- 126
+text.length$ -- 13
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 81
+warning$ -- 2
+while$ -- 89
+width$ -- 23
+write$ -- 238
+(There were 2 warnings)

@@ -1,0 +1,160 @@
+config1 
+
+SW
+10 nodes 10% attackers 10% discoverer mean 83%
+10 nodes 10% attackers 50% discoverer mean 77%
+10 nodes 10% attackers 90% discoverer mean 43%
+
+
+50 nodes 10% attackers 10% discoverer mean 87%
+50 nodes 10% attackers 50% discoverer mean 86%
+50 nodes 10% attackers 90% discoverer mean 83%
+50 nodes 1% attackers 90% discoverer mean 34%
+
+
+100 nodes 10% attackers 10% discoverer mean 87%
+100 nodes 10% attackers 50% discoverer mean 86%
+100 nodes 10% attackers 90% discoverer mean 84%
+100 nodes 1% attackers 90% discoverer mean 29%
+
+
+RANDOM
+10 nodes 10% attackers 10% discoverer mean 90%
+10 nodes 10% attackers 50% discoverer mean 60%
+10 nodes 10% attackers 90% discoverer mean 20%
+
+50 nodes 10% attackers 10% discoverer mean 85%
+50 nodes 10% attackers 50% discoverer mean 86%
+50 nodes 10% attackers 90% discoverer mean 58%
+50 nodes  1% attackers 90% discoverer mean 13%
+
+100 nodes 10% attackers 10% discoverer mean 83%
+100 nodes 10% attackers 50% discoverer mean 88%
+100 nodes 10% attackers 90% discoverer mean 53%
+100 nodes  1% attackers 90% discoverer mean 9%
+
+
+TOTAL
+10 nodes 10% attackers 10% discoverer mean 93%
+10 nodes 10% attackers 50% discoverer mean 55%
+10 nodes 10% attackers 90% discoverer mean 18%
+
+50 nodes 10% attackers 10% discoverer mean 91%
+50 nodes 10% attackers 50% discoverer mean 80%
+50 nodes 10% attackers 90% discoverer mean 36%
+50 nodes  1% attackers 90% discoverer mean  6%
+
+100 nodes 10% attackers 10% discoverer mean 91%
+100 nodes 10% attackers 50% discoverer mean 86%
+100 nodes 10% attackers 90% discoverer mean 46%
+100 nodes 1% attackers 90% discoverer mean 5%
+
+
+config3 [RANKP]
+
+SW
+10 nodes 10% attackers 90% discoverer 0.5 rankp mean 43%
+10 nodes 10% attackers 90% discoverer 0.8 rankp mean 44%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp mean 75%
+50 nodes 10% attackers 90% discoverer 0.8 rankp mean 75%
+50 nodes  1% attackers 90% discoverer 0.5 rankp mean 33%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp mean 84%
+100 nodes 1% attackers 90% discoverer 0.5 rankp mean 29%
+100 nodes 1% attackers 90% discoverer 0.8 rankp mean 29%
+
+RANDOM 
+10 nodes 10% attackers 90% discoverer 0.5 rankp mean 22%
+10 nodes 10% attackers 90% discoverer 0.8 rankp mean 22%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp mean 50%
+50 nodes  1% attackers 90% discoverer 0.5 rankp mean 12%
+50 nodes 10% attackers 90% discoverer 0.8 rankp mean 48%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp mean 65%
+100 nodes 1% attackers 90% discoverer 0.5 rankp mean 8%
+100 nodes 1% attackers 90% discoverer 0.8 rankp mean 8%
+
+
+TOTAL
+10 nodes 10% attackers 90% discoverer 0.5 rankp mean 18%
+10 nodes 10% attackers 90% discoverer 0.8 rankp mean 18%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp mean 36%
+50 nodes  1% attackers 90% discoverer 0.5 rankp mean  6%
+50 nodes 10% attackers 90% discoverer 0.8 rankp mean 34%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp mean 37%
+100 nodes 1% attackers 90% discoverer 0.5 rankp mean 5%
+100 nodes 1% attackers 90% discoverer 0.8 rankp mean 5%
+
+
+config4 [NETWORK COVERAGE]
+
+SW
+10 nodes 10% attackers 90% discoverer 0.5 coverage mean 35%
+10 nodes 10% attackers 90% discoverer 0.8 coverage mean 22%
+
+50 nodes 10% attackers 90% discoverer 0.5 coverage mean 55%
+50 nodes 10% attackers 90% discoverer 0.8 coverage mean 25%
+
+100 nodes 10% attackers 90% discoverer 0.5 coverage mean 58%
+100 nodes 1% attackers 90% discoverer 0.5 coverage mean 27%
+100 nodes 1% attackers 90% discoverer 0.8 coverage mean 18%
+
+RANDOM 
+10 nodes 10% attackers 90% discoverer 0.5 coverage mean 20%
+10 nodes 10% attackers 90% discoverer 0.8 coverage mean 15%
+
+50 nodes 10% attackers 90% discoverer 0.5 coverage mean 42%
+50 nodes 10% attackers 90% discoverer 0.8 coverage mean 22%
+50 nodes 1% attackers 90% discoverer 0.8 coverage mean   9%
+
+100 nodes 10% attackers 90% discoverer 0.5 coverage mean 54%
+100 nodes 10% attackers 90% discoverer 0.8 coverage mean 24%
+100 nodes  1% attackers 90% discoverer 0.8 coverage mean 7%
+
+TOTAL
+10 nodes 10% attackers 90% discoverer 0.5 coverage mean 17%
+10 nodes 10% attackers 90% discoverer 0.8 coverage mean 18%
+
+50 nodes 10% attackers 90% discoverer 0.5 coverage mean 35%
+50 nodes 10% attackers 90% discoverer 0.8 coverage mean 27%
+
+100 nodes 10% attackers 90% discoverer 0.8 coverage mean 21%
+100 nodes 1% attackers 90% discoverer 0.5 coverage mean 5%
+100 nodes 1% attackers 90% discoverer 0.8 coverage mean 5%
+	
+
+
+config5 [RANKP + NETWORK COVERAGE]
+
+SW
+10 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 18%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 22%
+50 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 17%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 23%
+100 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 16%
+
+
+RANDOM
+10 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 15%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 22%
+50 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 10%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 24%
+100 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 7%
+
+TOTAL
+10 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 14%
+
+50 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 20%
+50 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 5%
+
+100 nodes 10% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 21%
+100 nodes 1% attackers 90% discoverer 0.5 rankp + 0.8 coverage mean 3%
+
