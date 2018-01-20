@@ -1,0 +1,151 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:conf/eurosp/2017w}
+{\em 2017 {IEEE} European Symposium on Security and Privacy Workshops,
+  EuroS{\&}P Workshops 2017, Paris, France, April 26-28, 2017}. {IEEE}, 2017.
+
+\bibitem{DBLP:journals/ijaisc/ChaurasiaTV15}
+Brijesh~Kumar Chaurasia, Ranjeet~Singh Tomar, and Shekhar Verma.
+\newblock Using trust for lightweight communication in vanets.
+\newblock {\em {IJAISC}}, 5(2):105--116, 2015.
+
+\bibitem{A}
+Nilesh~N. Dangare and R.~S. Mangrulkar.
+\newblock Design and implementation of trust based approach to mitigate various
+  attacks in mobile ad hoc network.
+\newblock {\em Procedia Computer Science}, 78(1):554--561, 2016.
+
+\bibitem{survey8}
+Hongmei Deng, Wei Li, and Dharma~P. Agrawal.
+\newblock Routing security in wireless ad hoc networks.
+\newblock {\em Communications Magazine}, pages 70--75, 2002.
+
+\bibitem{DBLP:conf/um/FinnsonZTMC12}
+John Finnson, Jie Zhang, Thomas~T. Tran, Umar~Farooq Minhas, and Robin Cohen.
+\newblock A framework for modeling trustworthiness of users in mobile vehicular
+  ad-hoc networks and its validation through simulated traffic flow.
+\newblock In Judith Masthoff, Bamshad Mobasher, Michel~C. Desmarais, and Roger
+  Nkambou, editors, {\em User Modeling, Adaptation, and Personalization - 20th
+  International Conference, {UMAP} 2012, Montreal, Canada, July 16-20, 2012.
+  Proceedings}, volume 7379 of {\em Lecture Notes in Computer Science}, pages
+  76--87. Springer, 2012.
+
+\bibitem{GomezMarmol:2012:TTR:2160992.2161100}
+F{\'e}lix G\'{o}mez~M\'{a}rmol and Gregorio Mart\'{\i}nez~P{\'e}rez.
+\newblock Trip, a trust and reputation infrastructure-based proposal for
+  vehicular ad hoc networks.
+\newblock {\em J. Netw. Comput. Appl.}, 35(3):934--941, May 2012.
+
+\bibitem{survey9}
+Muhammad Imran, Farrukh~Aslam Khan, Tauseef Jamal, and Muhammad~Hanif Durad.
+\newblock Analysis of detection features for wormhole attacks in manets.
+\newblock {\em Procedia Computer Science}, 56:384 -- 390, 2015.
+\newblock The 10th International Conference on Future Networks and
+  Communications (FNC 2015) / The 12th International Conference on Mobile
+  Systems and Pervasive Computing (MobiSPC 2015) Affiliated Workshops.
+
+\bibitem{survey1}
+Vinita Jindal and Punam Bedi.
+\newblock Vehicular ad-hoc networks: Introduction, standards, routing protocols
+  and challenges.
+\newblock {\em IJCSI International Journal of Computer Science Issues},
+  13(2):1694--0784, 2016.
+
+\bibitem{survey3}
+Praveen Joshi.
+\newblock Security issues in routing protocols in manets at network layer.
+\newblock {\em Procedia Computer Science}, 3(1):954--960, 2011.
+
+\bibitem{Lo:2009:RST:1598776.1945486}
+Nai-Wei Lo and Hsiao-Chien Tsai.
+\newblock A reputation system for traffic safety event on vehicular ad hoc
+  networks.
+\newblock {\em EURASIP J. Wirel. Commun. Netw.}, 2009:9:1--9:2, April 2009.
+
+\bibitem{Minhas:2011:MAM:2334807.2334820}
+U.~F. Minhas, Jie Zhang, T.~Tran, and R.~Cohen.
+\newblock A multifaceted approach to modeling agent trust for effective
+  communication in the application of mobile ad hoc vehicular networks.
+\newblock {\em Trans. Sys. Man Cyber Part C}, 41(3):407--420, May 2011.
+
+\bibitem{10.1007/978-3-319-49580-4_8}
+Vishnu~Vardhan Paranthaman, Arindam Ghosh, Glenford Mapp, Victor Iniovosa,
+  Purav Shah, Huan~X. Nguyen, Orhan Gemikonakli, and Shahedur Rahman.
+\newblock Building a prototype vanet testbed to explore communication dynamics
+  in highly mobile environments.
+\newblock In Song Guo, Guiyi Wei, Yang Xiang, Xiaodong Lin, and Pascal Lorenz,
+  editors, {\em Testbeds and Research Infrastructures for the Development of
+  Networks and Communities}, pages 81--90, Cham, 2017. Springer International
+  Publishing.
+
+\bibitem{DBLP:conf/ifiptm/Primiero16}
+Giuseppe Primiero.
+\newblock A calculus for distrust and mistrust.
+\newblock In Sheikh~Mahbub Habib, Julita Vassileva, Sjouke Mauw, and Max
+  M{\"{u}}hlh{\"{a}}user, editors, {\em Trust Management {X} - 10th {IFIP} {WG}
+  11.11 International Conference, {IFIPTM} 2016, Darmstadt, Germany, July
+  18-22, 2016, Proceedings}, volume 473 of {\em {IFIP} Advances in Information
+  and Communication Technology}, pages 183--190. Springer, 2016.
+
+\bibitem{DBLP:conf/pst/PrimieroR14}
+Giuseppe Primiero and Franco Raimondi.
+\newblock A typed natural deduction calculus to reason about secure trust.
+\newblock In Ali Miri, Urs Hengartner, Nen{-}Fu Huang, Audun J{\o}sang, and
+  Joaqu{\'{\i}}n Garc{\'{\i}}a{-}Alfaro, editors, {\em 2014 Twelfth Annual
+  International Conference on Privacy, Security and Trust, Toronto, ON, Canada,
+  July 23-24, 2014}, pages 379--382. {IEEE} Computer Society, 2014.
+
+\bibitem{DBLP:conf/eurosp/PrimieroRCN17}
+Giuseppe Primiero, Franco Raimondi, Taolue Chen, and Rajagopal Nagarajan.
+\newblock A proof-theoretic trust and reputation model for {VANET}.
+\newblock In {\em 2017 {IEEE} European Symposium on Security and Privacy
+  Workshops, EuroS{\&}P Workshops 2017, Paris, France, April 26-28, 2017\/}
+  \cite{DBLP:conf/eurosp/2017w}, pages 146--152.
+
+\bibitem{DBLP:conf/infocom/RayaPGH08}
+Maxim Raya, Panagiotis Papadimitratos, Virgil~D. Gligor, and Jean{-}Pierre
+  Hubaux.
+\newblock On data-centric trust establishment in ephemeral ad hoc networks.
+\newblock In {\em {INFOCOM} 2008. 27th {IEEE} International Conference on
+  Computer Communications, Joint Conference of the {IEEE} Computer and
+  Communications Societies, 13-18 April 2008, Phoenix, AZ, {USA}}, pages
+  1238--1246. {IEEE}, 2008.
+
+\bibitem{survey7}
+Arathy~K Sa and Sminesh~C Na.
+\newblock A novel approach for detection of single and collaborative black hole
+  attacks in manet.
+\newblock {\em Procedia Computer Science}, pages 264--271, 2016.
+
+\bibitem{survey6}
+Latha Tamilselvan and V.~Sankaranarayanan.
+\newblock Prevention of co-operative black hole attack in manet.
+\newblock {\em Journal of networks 3.5}, pages 13--20, 2008.
+
+\bibitem{survey2}
+Ravi Tomar, Manish Prateek, and G.~H. Sastry.
+\newblock Vehicular adhoc network (vanet) - an introduction.
+\newblock {\em International Journal of Control Theory and Applications},
+  9(18):8883--8888, 2016.
+
+\bibitem{glenford}
+R~Vanni, L.M.S. Jaimes, G.~Mapp, and E.~Moreira.
+\newblock Ontology driven reputation model for vanet.
+\newblock In {\em AICT 2016, The Twelfth Advanced International Conference on
+  Telecommunications, IARIA}, pages 14--19, 2016.
+
+\bibitem{Wei2012}
+Yu-Chih Wei and Yi-Ming Chen.
+\newblock {\em Reliability and Efficiency Improvement for Trust Management
+  Model in VANETs}, pages 105--112.
+\newblock Springer Netherlands, Dordrecht, 2012.
+
+\bibitem{DBLP:conf/vtc/WexBHLD08}
+Philipp Wex, Jochen Breuer, Albert Held, Tim Leinm{\"{u}}ller, and Luca
+  Delgrossi.
+\newblock Trust issues for vehicular ad hoc networks.
+\newblock In {\em Proceedings of the 67th {IEEE} Vehicular Technology
+  Conference, {VTC} Spring 2008, 11-14 May 2008, Singapore}, pages 2800--2804.
+  {IEEE}, 2008.
+
+\end{thebibliography}

@@ -1,0 +1,12 @@
+set xlabel "% Attackers over Size"
+set xrange [0:0.5]
+set xtics ("1/10" 0.1, "2/10" 0.2, "5/20" 0.25)
+set ytics nomirror
+set ylabel "% Infection"
+set yrange [10:100]
+set key above left
+#set terminal pngcairo dashed
+#set output "allcons.png"
+set terminal postscript eps enhanced color font 'Helvetica,20'
+set output "2ndconfig.eps"
+plot "2ndconfig_sw.dat" title "SW" with linespoints lt 1, "2ndconfig_total.dat" title "Total" with linespoints lt 4, "2ndconfig_random.dat" title "Random" with linespoints lt 7
